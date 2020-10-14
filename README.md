@@ -8,3 +8,7 @@ Analyze a Google Merchandise Store customer dataset to group to predict revenue 
 3. Applied optimized algorithm with K-means++ seeding  method to reduce 30% average distance to centroids compared to mini-batch K-Means Clustering;
 4. Illustrated conclusion by visualizing results with Seaborn. 
 
+More detailed information about the project is 'customer segementation.ipynb' file. 
+
+
+
