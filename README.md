@@ -3,7 +3,7 @@
 Analyze a Google Merchandise Store customer dataset to group to predict revenue per customer. 
 
 ## Main Idea:
-Using clsutering model (K-Means) to clustering customers based various variables to predict the the revenue.
+Using clsutering model (K-Means) to cluster customers based various variables in order to predict the the revenue.
 
 ## Precedure:
 1. Performed exploratory data analysis (EDA) and feature engineering including data cleaning, outlier detection and feature extraction;
